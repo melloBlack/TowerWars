@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TriggerRange
+  - Missile
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerTower
+  - EnemyTower
+  - PlayerSoldier
+  - EnemySoldier
+  - PlayerSword
+  - EnemySword
+  - PlayerTriggerArea
+  - EnemyTriggerArea
+  - Ground
+  - TouchArea
+  - SoldierMagnet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
